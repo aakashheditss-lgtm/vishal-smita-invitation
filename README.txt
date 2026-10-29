@@ -1,7 +1,7 @@
 VISHAL WEDS SMITA — DIGITAL WEDDING INVITATION
 
 Included files
-- index.html: complete mobile-friendly wedding invitation with the animated palace gate, falling floral petals, wedding details, share invitation, and WhatsApp RSVP.
+- index.html: complete mobile-friendly wedding invitation with the animated palace gate, falling floral petals, wedding details, share invitation, and invitation sharing.
 - README.txt: setup and hosting instructions.
 
 DETAILS TRANSCRIBED FROM THE INVITATION CARD
